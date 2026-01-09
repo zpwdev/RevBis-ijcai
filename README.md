@@ -1,7 +1,5 @@
 # Revisiting Bisimulation Metric for Robust Representation in Reinforcement Learning #
 
-![](fig.png)
-
 This is the code base for our paper on [Revisiting Bisimulation Metric for Robust Representation in Reinforcement Learning]. Our method introduces a new metric for measuring state-action pair similarity with adaptive coefficients, overcoming the limitations of traditional bisimulation metrics.
 
 ## Environment Setup

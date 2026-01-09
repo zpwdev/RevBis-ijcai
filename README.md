@@ -1,6 +1,6 @@
 # Revisiting Bisimulation Metric for Robust Representation in Reinforcement Learning #
 
-This is the code base for our paper on [Revisiting Bisimulation Metric for Robust Representation in Reinforcement Learning]. Our method introduces a new metric for measuring state-action pair similarity with adaptive coefficients, overcoming the limitations of traditional bisimulation metrics.
+This is the codebase for our paper on [Revisiting Bisimulation Metric for Robust Representation in Reinforcement Learning]. Our method introduces a new metric for measuring state-action pair similarity with adaptive coefficients, overcoming the limitations of traditional bisimulation metrics.
 
 ## Environment Setup
 Our experimental setup is based on the [DrQ-v2](https://github.com/facebookresearch/drqv2) framework. For details on dependencies and environment configuration, please refer to the `environment.yml` file.
